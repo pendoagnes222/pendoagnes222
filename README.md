@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Agnes Pendo 
-- 👀 I’m interested in 
+- 👀 I’m interested in  Web Development.
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on an open source project.
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate with programmers all over the world who have a passion on Webdeveloper.
+- 📫 Reach me out at pendoagne222@gmail.com
 
 <!---
 pendoagnes222/pendoagnes222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
